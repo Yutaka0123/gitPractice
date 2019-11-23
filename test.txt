@@ -1,7 +1,4 @@
 AAA
 BBB
-<<<<<<< HEAD
 CC1
-=======
 CC2
->>>>>>> Commit2
